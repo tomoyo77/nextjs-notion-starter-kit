@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'NaruSasu77',
+  rootNotionPageId: 'Getting-Started-ccdf998299ef4570b8095013d59b951c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'NaruSasu77',
-  domain: 'transitivebullsh.it',
+  domain: 'https://whimsical-longan-588.notion.site/Getting-Started-ccdf998299ef4570b8095013d59b951c',
   author: '77',
 
   // open graph metadata (optional)
